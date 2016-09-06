@@ -1,4 +1,4 @@
-# 新手入门-Reacht.js 踩坑日志
+# 新手入门-React.js 踩坑日志
 
 ## Gulp+Babel构建开发环境
 1. pakage.json中的最简单插件依赖项目如下
